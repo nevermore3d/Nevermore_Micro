@@ -1,4 +1,4 @@
-Nevermore Micro Naked Mod for the PABST RLF-35 Fan mount.
+Nevermore Micro **Naked Mod for the PABST RLF-35 Fan mount**.
 
 This is a mod of the Pabst RLF-35 fan mount to remove all of the Nevermore Micro exterior casing and keep the mounting as minimalist as possible.  
 It has mounts for the Wago 221-413 Compact Triple Mount Connector - 2D and 3D models and some details available here: 
