@@ -8,7 +8,7 @@
 
 ![Nevermore Activated Carbon Filter Micro V4](images/logo.png "Nevermore Activated Carbon Filter Micro V4")
 
-Originally intended as a carbon fume filter for Voron V2, it has found its way into a multitude of other machines. Let yours be the next!
+Originally intended as a carbon fume filter for Voron V2, it has found its way into a multitude of other machines. Let yours be the next! Bad smells or fumes, or complaints thereof, should not keep you from being a maker! 
 
 - [Nevermore Activated Carbon Filters - Micro Edition](#nevermore-activated-carbon-filters---micro-edition)
 - [About The Nevermore Micro](#about-the-nevermore-micro)
