@@ -279,7 +279,7 @@ However, if your MCU does have an additional fan output, then it is recommended 
 
 ## Final Thoughts on Usage
 
-The Nevermore Micro's activate carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants since they have built-in negative-pressure fans.
+The Nevermore Micro's activate carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants. Those also have built-in negative-pressure fans.
 
 However, you can achieve the same results with the Nevermore Micro by using a HEPA filter of your own and creating slightly negative air-pressure within your build chamber, exhausting air outwards at a slow pace. Since you are filtering with the Nevermore, the vast majority of VOCs will be filters by the active carbon filtration, leaving the HEPA filter to capture the remaining UFPs. This also greatly extends the live of your HEPA filter as the Nevermore Micro will be accumulating the larger particulates.
 
