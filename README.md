@@ -8,13 +8,14 @@
 
 ![Nevermore Activated Carbon Filter Micro V4](images/logo.png "Nevermore Activated Carbon Filter Micro V4")
 
-Originally intended as a carbon fume filter for Voron V2, it has found its way into a multitude of other machines. Let yours be the next! Bad smells or fumes, or complaints thereof, should not keep you from being a maker! 
+Originally intended as a carbon fume filter for Voron V2, it has found its way into a multitude of other machines. Let yours be the next! Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
 
 - [Nevermore Activated Carbon Filters - Micro Edition](#nevermore-activated-carbon-filters---micro-edition)
 - [About The Nevermore Micro](#about-the-nevermore-micro)
   - [Why The Nevermore?](#why-the-nevermore)
   - [Nevermore Background](#nevermore-background)
-  - [Nevermore V4 and First Release](#nevermore-v4-and-first-release)
+  - [Nevermore V4, First Release](#nevermore-v4-first-release)
+  - [Nevermore V5 Duo](#nevermore-v5-duo)
 - [FAQs](#faqs)
   - [What are differences between V4 and V5 Duo?](#what-are-differences-between-v4-and-v5-duo)
   - [Why use a single fan version, if dual is better?](#why-use-a-single-fan-version-if-dual-is-better)
@@ -94,15 +95,23 @@ So what are we waiting for? We got lots of cheap carbon. We can replace is easil
 
 Enter, _The Nevermore_.
 
-## Nevermore V4 and First Release
-
-![Nevermore Micro V2 Prototype](images/print_example2.png "Nevermore Micro V2 Prototype")
+## Nevermore V4, First Release
 
 Nevermore V4 is a refinement of the V3. V4 adds a air guides, as the previous versions had the majority of air flow on just one side of the filter (most recent version has all supports removed yet again!). The cartridge lid also mounts a bit sturdier, and V4 now has separate base pieces for use with Vorons other than 2.4.
 
-This was the first official release of the Nevermore Micro to the public. Following that, the V5 Duo was released that changes the direction of air flow, better suited for when the Nevermore Micro would be placed flat on the bottom or top of the printer.
+![Nevermore Micro V2 Prototype](images/print_example2.png "Nevermore Micro V2 Prototype")
 
-![](images/nevermore-micro-duo.jpg)
+The V4 was the first official release of the Nevermore Micro to the public.
+
+## Nevermore V5 Duo
+
+Following the V4, the V5 Duo was released that changes the direction of air flow, better suited for when the Nevermore Micro would be placed flat on the bottom or top of the printer. Though there are other "outlet" options, like for the V1.8/Trident style that blows outwards and not up.
+
+The V5 Duo also adds a 2nd additional 5015.
+
+![Nevermore Micro V5 Duo](images/nevermore-micro-duo.jpg "Nevermore Micro V5 Duo")
+
+![Nevermore Micro V5 Duo](images/nevermore-micro-duo-opened.jpg "Nevermore Micro V5 Duo")
 
 _(Nevermore V5 Duo. used with permission from Tightwad(JT)#6055)_
 
