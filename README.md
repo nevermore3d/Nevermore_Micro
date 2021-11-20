@@ -39,7 +39,7 @@ Originally intended as a carbon fume filter for Voron V2, it has found its way i
 
 # About The Nevermore Micro
 
-VOCs (Volatile Organize Compounds) are known to cause sever health issues and even cause cancer in some cases.
+[VOCs (Volatile Organic Compounds)](https://en.wikipedia.org/wiki/Volatile_organic_compound) are common in daily life but VOCs generated from 3D printing are known to cause severe health issues and even cause cancer in some cases.
 
 ![Emitted VOCs](images/emitted-voc.jpg "Emitted VOCs")
 
@@ -288,7 +288,7 @@ However, if your MCU does have an additional fan output, then it is recommended 
 
 ## Final Thoughts on Usage
 
-The Nevermore Micro's activate carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants. Those also have built-in negative-pressure fans.
+The Nevermore Micro's activated carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants. Those also have built-in negative-pressure fans.
 
 However, you can achieve the same results with the Nevermore Micro by using a HEPA filter of your own and creating slightly negative air-pressure within your build chamber, exhausting air outwards at a slow pace. Since you are filtering with the Nevermore, the vast majority of VOCs will be filters by the active carbon filtration, leaving the HEPA filter to capture the remaining UFPs. This also greatly extends the live of your HEPA filter as the Nevermore Micro will be accumulating the larger particulates.
 
