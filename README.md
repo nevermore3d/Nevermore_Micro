@@ -300,7 +300,7 @@ However, if your MCU does have an additional fan output, then it is recommended 
 
 ## Final Thoughts on Usage
 
-**Run a PID tune if a Nevermore Micro is installed under the heated bed, or draws/exhausts air over a bed thermistor. This is important, as worst case could cause the bed to overheat, and/or make the heater adhesive burn (this will smell worse than any ABS printing!)**
+**PID tune AGAIN if a Nevermore Micro is installed right beneath a heated bed, or draws/exhausts air over the bed thermistor. This is important, as worst case it could cause the bed to overheat, and/or make the heater adhesive burn (this will smell worse than any ABS printing!), and/or possibly even damage the bed heater.**
 
 The Nevermore Micro's activated carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants. Those also have built-in negative-pressure fans.
 
