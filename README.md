@@ -205,11 +205,16 @@ For example, for aquarium or moonshine use you want large macroporosity to filte
 **Avoid acid washed carbon at all costs**. Residues have oxidized printers! Go for steam activated, non acid-washed. A blend of neutral carbon and alkaline KOH carbon might be the best blend in the future, but impossible to currently source from trustworthy manufacturers.
 
 Finding carbon that fills all criteria is hard. Look around, ask suppliers about the carbon, hear what others recommend. Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers:
+
 US: Fabreeko, DFH
+
 EU: Lecktor, VonWange
+
 UK: OneTwo3d
+
 AU: Unique Prints
-Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
+
+...Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
 
 ## BOM (V5)
 
