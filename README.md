@@ -204,7 +204,9 @@ For example, for aquarium or moonshine use you want large macroporosity to filte
 
 **Avoid acid washed carbon at all costs**. Residues have oxidized printers! Go for steam activated, non acid-washed. A blend of neutral carbon and alkaline KOH carbon might be the best blend in the future, but impossible to currently source from trustworthy manufacturers.
 
-Finding carbon that fills all criteria is hard. Look around, ask suppliers about the carbon, hear what others recommend. Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers:
+Finding carbon that fills all criteria is hard. Look around, ask suppliers about the carbon, hear what others recommend. 
+
+Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers. Its the best activated carbon for 3D printer use we have found after speaking to most major, vetted suppliers, offering benzene adsorbtion of up to 48 wt%, surface area of 1250 and CTC value of 80. It doesn't come cheap compared to bulk carbon from amazon, but its safe, has unbeatable performance, and every purchase supports the nevermore project by at least a dollar.  
 
 US: Fabreeko, DFH
 
