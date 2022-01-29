@@ -152,7 +152,7 @@ _(Voron V2 w/Nevermore V5. used with permission from Laserbeak43#2729)_
 - Exhausts air upwards
   - Better heat spread in the Voron V2 chamber
   - Less air leaks through Voron V2 split doors
-- BOM 3x6 magnets are standard
+- BOM 6x3 magnets are standard
 - Blower fans are seated by bolts again, with less modifications needed
 
 ## What fans should I use?
@@ -226,7 +226,7 @@ AU: Unique Prints
 - 5x M3x0.5mm Heatset inserts (standard voron issue)
   - 2 for seating plenum to base
   - 2 for seating plenum lid to plenum
-- 8x 3x6mm cylindrical magnets
+- 8x 6x3mm cylindrical magnets
 - 1x 2 pin JST header
 - 4x M3x16 BHCS
   - for heat inserts that go into the four fan tabs
@@ -258,7 +258,7 @@ Optional for Vorons or any printer with 2020 extrusions
 - 4x Heatset inserts (M3x0.5mm, standard voron issue)
   - 2 for seating plenum to base
   - 2 for seating plenum lid to plenum
-- 8x 4x6 mm or 3x6 cylindrical magnets
+- 8x 4x6 mm or 6x3 cylindrical magnets
 - 1x 2 pin JST header
 - 2x M3x10 SHCS
   - for seating plenum to base
