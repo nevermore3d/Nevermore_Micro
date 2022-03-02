@@ -214,7 +214,7 @@ EU: Lecktor, VonWange
 
 UK: OneTwo3d
 
-AU: Unique Prints
+AU: Unique Prints, PhaserFPV
 
 ...Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
 
