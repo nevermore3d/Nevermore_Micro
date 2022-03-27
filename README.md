@@ -208,13 +208,14 @@ Finding carbon that fills all criteria is hard. Look around, ask suppliers about
 
 **Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers.** Its the best activated carbon for 3D printer use we have found after speaking to most major, vetted suppliers, offering benzene adsorbtion of up to 48 wt%, surface area of 1250 and CTC value of 80. It doesn't come cheap compared to bulk carbon from amazon, but its safe, has unbeatable performance, and every purchase supports the nevermore project by at least a dollar.  
 
-US: Fabreeko, DFH
+US: Fabreeko (www.fabreeko.com), DFH (https://deepfriedhero.in)
 
-EU: Lecktor, VonWange
+EU: Lecktor (https://lecktor.com), VonWange (https://vonwange.com), Replimat Labs (https://www.replimat.eu/)
 
-UK: OneTwo3d
+UK: OneTwo3d (https://www.onetwo3d.co.uk), Printy Please (www.PrintyPlease.uk)
 
-AU: Unique Prints, PhaserFPV
+AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.com.au)
+
 
 ...Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
 
