@@ -24,6 +24,7 @@ Originally intended as a carbon fume filter for Voron V2, it has found its way i
   - [How do I make a suggestion/report a bug/find out more?](#how-do-i-make-a-suggestionreport-a-bugfind-out-more)
 - [Getting Started](#getting-started)
   - [SOURCING THE PROPER ACID-FREE CARBON](#sourcing-the-proper-acid-free-carbon)
+  - [NEVERMORE 3D PRINTER CARBON](#nevermore-3d-printer-carbon)
   - [BOM (V5)](#bom-v5)
   - [BOM (V4)](#bom-v4)
   - [Assembly](#assembly)
@@ -206,6 +207,7 @@ For example, for aquarium or moonshine use you want large macroporosity to filte
 
 Finding carbon that fills all criteria is hard. Look around, ask suppliers about the carbon, hear what others recommend. 
 
+## NEVERMORE 3D PRINTER CARBON
 **Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers.** Its the best activated carbon for 3D printer use we have found after speaking to most major, vetted suppliers, offering benzene adsorbtion of up to 48 wt%, surface area of 1250 and CTC value of 80. It doesn't come cheap compared to bulk carbon from amazon, but its safe, has unbeatable performance, and every purchase supports the nevermore project by at least a dollar.  
 
 US: Fabreeko (www.fabreeko.com), DFH (https://deepfriedhero.in)
