@@ -224,8 +224,10 @@ AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.
 ## BOM (V5)
 
 - 2x 5015 blowers (rating above 200Pa / 20mmH2O / 1 inH2O)
-  - Sunon Maglev MF5015VX (high speed version, 6000 rpm. The 5000 rpm might be okay also)
-  - or, the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress
+  - Sunon Maglev MF5015VX (high speed version, 6000 rpm. NOTE: There are A LOT of fake sunons out there, even from usually reputable sources. Blantant examples include 24V versions. Also, Sunon does not officially reecommend PWM:ing this fan, so while its still perfectly doable it can have unintended consequences later on)
+  - GDStime 6000rpm Dual Ball bearing on Aliexpress
+  - Delta BFB0524HH
+  - Avoid mechatronics fans for this purpose.
 - 5x M3x0.5mm Heatset inserts (standard voron issue)
   - 2 for seating plenum to base
   - 2 for seating plenum lid to plenum
