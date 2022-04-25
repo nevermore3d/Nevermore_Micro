@@ -231,7 +231,7 @@ AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.
 - 5x M3x0.5mm Heatset inserts (standard voron issue)
   - 2 for seating plenum to base
   - 2 for seating plenum lid to plenum
-- 8x 3x6mm cylindrical magnets
+- 8x 6x3mm cylindrical magnets
 - 1x 2 pin JST header
 - 4x M3x16 BHCS
   - for heat inserts that go into the four fan tabs
