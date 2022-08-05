@@ -160,7 +160,7 @@ _(Voron V2 w/Nevermore V5. used with permission from Laserbeak43#2729)_
 
 Aim for any 5015 blower with a rating above 200Pa / 20mmH2O / 1 inH2O.
 
-Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. The Sunon Maglev MF5015VX (high speed version, 6000 rpm) is good but unfortunately almost impossible to find as most are fakes (there is no 24V version for starters). The GDStime 6000rpm Dual Ball bearing is another good option, but quality may vary. The Delta BFB0524HH is a gucci option, as is the special micro versions made for the papst rlf-35 which is an equally awesome and expensive fan. Any fan that works well for stealthburner should be a good option for nevermore micro as well.
+Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. The Sunon Maglev MF5015VX (high speed version, 6000 rpm) is good but unfortunately almost impossible to find as most are fakes. The GDStime 6000rpm Dual Ball bearing is another good option, but quality may vary. The Delta BFB0524HH is a gucci option, as is the special micro versions made for the papst rlf-35 which is an equally awesome and expensive fan. Any fan that works well for stealthburner should be a good option for nevermore micro as well.
 
 See the BOM below for more details.
 
