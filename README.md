@@ -212,9 +212,11 @@ Finding carbon that fills all criteria is hard. Look around, ask suppliers about
 
 US: Fabreeko (www.fabreeko.com), DFH (https://deepfriedhero.in)
 
-EU: Lecktor (https://lecktor.com), VonWange (https://vonwange.com), Replimat Labs (https://www.replimat.eu/)
+EU: Fermio Labs (https://fermio.xyz), Lecktor (https://lecktor.com), VonWange (https://vonwange.com), Replimat Labs (https://www.replimat.eu/)
 
 UK: OneTwo3d (https://www.onetwo3d.co.uk), Printy Please (www.PrintyPlease.uk)
+
+ISR: Rav Meimad (https://www.ravmeimad.shop/)
 
 AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.com.au)
 
