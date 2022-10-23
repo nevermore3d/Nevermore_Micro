@@ -218,7 +218,7 @@ UK: OneTwo3d (https://www.onetwo3d.co.uk), Printy Please (www.PrintyPlease.uk)
 
 ISR: Rav Meimad (https://www.ravmeimad.shop/)
 
-AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.com.au)
+AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.com.au), DREMC (https://store.dremc.com.au/)
 
 
 ...Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
