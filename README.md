@@ -290,7 +290,7 @@ Check out assembly images (**take note at how the fans are cut!**) here: [Neverm
 
 ### Instructions for V5
 
-_Coming soon... Similar to V4 though._ Do note that there as **built-in support** below the cartridge insert. This is meant to be easily removed by pushing or crushing (it's a single line wall). 
+Print pieces without supports. This goes for all Nevermore parts. Do note that there as **built-in support** below the cartridge insert. This is meant to be easily removed by pushing or crushing (it's a single line wall). 
 
 ### Instructions for V4
 
