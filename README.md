@@ -92,7 +92,7 @@ Well, the carbon in those filters mentioned above, costing a lot for little dura
 
 And with an enclosed chamber, you don't need the air flow of a room-size air purifier. Even a 350mm V2 Voron only holds about 5cf, meaning even a partial flow from a 5015 fan of 0.5-2cfm is enough to filter the fumes efficiently at the source.
 
-So what are we waiting for? We got lots of cheap carbon. We can replace is easily. We don't need high airflow to clean a small chamber. We deal with poor efficiency of one-pass carbon filters by multiplying the amount and recirculate the air.
+So what are we waiting for? We got lots of cheap carbon. We can replace it easily. We don't need high airflow to clean a small chamber. We deal with poor efficiency of one-pass carbon filters by multiplying the amount and recirculate the air.
 
 Enter, _The Nevermore_.
 
