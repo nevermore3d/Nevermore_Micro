@@ -230,9 +230,10 @@ AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.
   - GDStime 6000rpm Dual Ball bearing on Aliexpress (This is 12V rated fans)
   - Delta BFB0524HH (This is 24V rated fans)
   - Avoid mechatronics fans for this purpose.
-- 5x M3x0.5mm Heatset inserts (standard voron issue)
-  - 2 for seating plenum to base
-  - 2 for seating plenum lid to plenum
+- 6x M3x0.5mm Heatset inserts (standard voron issue)
+  - 1 in plenum base to secure plenum lid
+  - 1 in cartridge base to secure cartridge lide
+  - 4 in fans (2 in each fan × 2 fans)
 - 8x 6x3mm cylindrical magnets
 - 1x 2 pin JST header
 - 4x M3x16 BHCS
