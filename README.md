@@ -230,10 +230,11 @@ AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.
   - GDStime 6000rpm Dual Ball bearing on Aliexpress (This is 12V rated fans)
   - Delta BFB0524HH (This is 24V rated fans)
   - Avoid mechatronics fans for this purpose.
-- 5x M3x0.5mm Heatset inserts (standard voron issue)
-  - 2 for seating plenum to base
-  - 2 for seating plenum lid to plenum
-- 8x 6x3mm cylindrical magnets
+- 6x M3, 5 mm OD, 4 mm height heatset inserts (standard voron issue)
+  - 1 in plenum base to secure plenum lid
+  - 1 in cartridge base to secure cartridge lide
+  - 4 in fans (2 in each fan × 2 fans)
+- 8x ⌀6x3 mm round magnets
 - 1x 2 pin JST header
 - 4x M3x16 BHCS
   - for heat inserts that go into the four fan tabs
@@ -265,10 +266,11 @@ Optional for Vorons or any printer using 24PSU
 - 1x 5015 blowers (rating above 200Pa / 20mmH2O / 1 inH2O)
   - Sunon Maglev MF5015VX (high speed version, 6000 rpm. The 5000 rpm might be okay also)
   - or, the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress
-- 4x Heatset inserts (M3x0.5mm, standard voron issue)
+- 4x M3, 5mm OD, 4mm height Heatset inserts (standard voron issue)
   - 2 for seating plenum to base
   - 2 for seating plenum lid to plenum
-- 8x 4x6 mm or 6x3 cylindrical magnets
+- 8x ⌀4x6 mm or ⌀6x3 mm magnets
+  - Make sure to print correct parts (4x6 or 6x3 files)
 - 1x 2 pin JST header
 - 2x M3x10 SHCS
   - for seating plenum to base
