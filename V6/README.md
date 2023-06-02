@@ -16,8 +16,8 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 - **Compatibility:** V6 can be used with any machine, including a small Voron v0!
 
-- **Sleek Design:** V6 not only performs exceptionally but also looks awesome. It features a novel jalousie lid design with no bolts, allowing for convenient one-handed carbon swaps. Gone are the days of dealing with annoying bolts or latches when swapping carbon. Rest assured, this design remains super secure. You have to try it to believe it!
+- **Sleek Design:** V6 not only performs exceptionally but also looks awesome. It features a novel jalousie lid design with no bolts, allowing for convenient one-handed carbon swaps. Gone are the days of dealing with annoying bolts or latches when swapping carbon. Rest assured, this design remains super secure. You have to try it to believe it! Jalousie demo [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
 
 For more information and documentation, visit our [GitHub page](https://github.com/nevermore3d).
 
-To watch the video, click [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
+
