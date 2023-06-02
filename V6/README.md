@@ -20,4 +20,4 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 For more information and documentation, visit our [GitHub page](https://github.com/nevermore3d).
 
-Watch the new lid [here](vcompress_56.mov).
+To watch the video, click [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
