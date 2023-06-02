@@ -2,7 +2,7 @@
 
 ![Nevermore Micro V6](V6_micro.png)
 
-Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos, which will now be considered legacy designs.
+Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos, which will soon be considered legacy designs.
 
 ## What's New?
 
