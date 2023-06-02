@@ -6,7 +6,7 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 ## What's New?
 
-- **Intact 5015 Fans:** V6 requires the use of intact 5015 fans, eliminating the need to cut any wires. This innovation raises a common concern: does it waste carbon if the air isn't spread over the entire filter? The answer is yes. However, we have overcome this challenge through clever use of evasees and vanes to efficiently distribute the airflow within the small plenum space. This means all the carbon receives airflow immediately, without requiring any fan modifications.
+- **Intact 5015 Fans:** V6 requires the use of intact 5015 fans, eliminating the need to cut fan scroll or any wires. This innovation raises a common concern: does it waste carbon if the air isn't spread over the entire filter? The answer is yes. However, we have overcome this challenge through clever use of evasees and vanes to efficiently distribute the airflow within the small plenum space. This means all the carbon receives airflow immediately, without requiring any fan modifications.
 
 - **Enhanced Heat Tolerance:** Unlike its predecessors, V6 can tolerate higher levels of heat. The V4 and V5 had thinner lids that could bend or warp, especially when subjected to temperatures above 100°C on a hot bed. This sometimes resulted in broken or damaged units. However, the V6 is beefed up to address this issue. With a thicker frame, structured vanes, and lids strategically placed away from the heat source, the chances of melting a Nevermore Micro are significantly reduced.
 
