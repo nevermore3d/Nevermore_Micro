@@ -10,7 +10,7 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 - **Enhanced Heat Tolerance:** Unlike its predecessors, V6 can tolerate higher levels of heat. The V4 and V5 had thinner lids that could bend or warp, especially when subjected to temperatures above 100°C under a heated bed. This sometimes resulted in broken or damaged units. However, the V6 is beefed up to address this issue. With a thicker frame, structured vanes, and lids strategically placed away from the heat source, the chances of melting a Nevermore Micro are significantly reduced.
 
-- **Improved Airflow:** V6 boasts superior airflow. We have achieved this by optimizing the printing direction, which allows for built-in seals. Say goodbye to air leaks between the cartridge and the plenum! Furthermore, the intake system has been redesigned to accommodate increased airflow. Now, it can process the chamber volume of a 250 Voron in just 30 seconds, and a larger 350 in approximately 2 minutes.
+- **Improved Airflow:** V6 boasts superior airflow. We have achieved this by optimizing the printing direction, which allows for built-in seals. Say goodbye to air leaks between the cartridge and the plenum! Furthermore, the air intakes have been redesigned to accommodate increased airflow. Now, it can process the chamber volume of a 250 Voron in just 30 seconds, and a larger 350 in approximately 2 minutes.
 
 - **Reduced Noise:** V6 generates less noise compared to the V5, thanks to a redesigned air intake.
 
