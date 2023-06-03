@@ -14,7 +14,7 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 - **Reduced Noise:** V6 generates less noise compared to the V5, thanks to a redesigned air intake.
 
-- **Compatibility:** V6 can be printed on any machine, including on a Voron v0 on which a v5 duo previously wouldnt fit on the small bed. Yet the size is the same, its dark sorcery.
+- **Compatibility:** V6 can be printed on any machine, including on a Voron v0 on which a v5 duo previously wouldnt fit. Yet the size is the same, its dark sorcery.
 
 - **Sleek Design:** V6 not only performs exceptionally but also looks awesome. It features a novel jalousie lid design with no bolts, allowing for convenient one-handed carbon swaps. Gone are the days of dealing with annoying bolts or latches when swapping carbon. Rest assured, this design remains super secure. You have to try it to believe it! Jalousie demo [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
 
