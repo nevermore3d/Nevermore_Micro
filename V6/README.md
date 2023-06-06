@@ -19,7 +19,7 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 - **Sleek Design:** V6 not only performs exceptionally but also looks awesome. It features a novel jalousie lid design with no bolts, allowing for convenient one-handed carbon swaps. Gone are the days of dealing with annoying bolts or latches when swapping carbon. Rest assured, this design remains super secure. You have to try it to believe it! Jalousie demo [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
 
 ## Print material and settings
-- Designed and prototyped with ABS materials. Any material that is heat resistant enough for the installation spot will likely work, but non-brittle material (i.e regular PLA) is likely required for the jalousie slider and the spring fan fasteners.
+- Designed and prototyped with ABS materials. Any material that is heat resistant enough for the installation spot will likely work, but brittle material (i.e regular PLA) should be avoided for the jalousie slider and the spring fan fasteners.
 - Made for standard voron settings. 0.2 mm layer height needed for supports to line up right, and 0.4-0.5mm line width for optimal mesh printing. 5 walls recommended for jalousie structural integrity, otherwise its pretty sturdy regardless.
 
 ## BOM and Installation
