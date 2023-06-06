@@ -18,6 +18,10 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 - **Sleek Design:** V6 not only performs exceptionally but also looks awesome. It features a novel jalousie lid design with no bolts, allowing for convenient one-handed carbon swaps. Gone are the days of dealing with annoying bolts or latches when swapping carbon. Rest assured, this design remains super secure. You have to try it to believe it! Jalousie demo [here](https://youtube.com/shorts/sSmVfhcDKrI?feature=share).
 
+## Print material and settings
+- Designed and prototyped with ABS materials. Any material that is heat resistant enough for the installation spot will likely work, but non-brittle material (i.e regular PLA) is likely required for the jalousie slider and the spring fan fasteners.
+- Made for standard voron settings. 0.2 mm layer height needed for supports to line up right, and 0.4-0.5mm line width for optimal mesh printing. 5 walls recommended for jalousie structural integrity, otherwise its pretty sturdy regardless.
+
 ## BOM and Installation
 
 ### Support Removal
@@ -48,6 +52,11 @@ Before installation, there are a few support pieces that need to be removed:
 1. **Single JST-XH 2-pin**: Solder both fan wires to a single JST-XH 2-pin connector and connect it to the plenum port.
 2. **Triple JST-XH 2-pin**: Print the [2xJST_Holder.stl] insert to create a triple JST-XH 2-pin port. Connect the fans without cutting fan wires by daisy-chaining the 2 extra JST connectors to the plenum JST port. Note that for thicker and longer fan wires (like Gdstime), the wiring space may need to be completely filled with wire.
 3. **Dual WAGO 221 2-pin connectors**: Cut the fan wires, twist the fan wires together (12V bundle + GND bundle), and use WAGO connectors as wire extensions. Print the [Wire_connector.stl] that fits the plenum JST port. Insert the power wire from your printer and connect it to the corresponding WAGO socket. Lastly, insert the WAGO connectors into their slots.
+
+**TRIPLE-JST and WAGO**
+![Cartridge Supports](JST_MOUNT.png)
+
+![Cartridge Supports](WAGO_MOUNT.png)
 
 #### Magnets
 
