@@ -1,3 +1,6 @@
+[![Support Nevermore3D - Buy me a coffee](https://img.shields.io/badge/Support%20Nevermore3D%20-Buy%20me%20a%20coffee-orange.svg)](https://www.buymeacoffee.com/nevermore3d)
+
+
 # Nevermore Micro V6
 
 ![Nevermore Micro V6](V6_micro.png)
@@ -95,4 +98,7 @@ The jalousie slider can be printed in any non-brittle yet rigid material. ABS, A
 
 For the first installation, **heat the jalousie slider slightly** (for instance, by placing it on the 3D printer's heated bed just below the glass transition temperature for a minute or two). Then, insert it from the top, ensuring the matching orientation, and push it in a few millimeters at a time. The critical moment is the first bend on the first insert, so **provide support and help it bend on the opposite side of insertion to prevent cracking or damaging the sliding path**. Once inserted, slide it in and out a few times to smooth out any surface imperfections that may hinder smooth operation. Lubrication should not be necessary but can be an option if desired.
 
+## Support My Work
+
+If you find my work helpful, consider [buying me some filament 🖍️](https://www.buymeacoffee.com/nevermore3d).
 ## For more information and documentation, visit our [GitHub page](https://github.com/nevermore3d).
