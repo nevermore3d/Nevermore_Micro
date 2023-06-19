@@ -212,7 +212,7 @@ Finding carbon that fills all criteria is hard. Look around, ask suppliers about
 
 US: Fabreeko (www.fabreeko.com), DFH (https://deepfriedhero.in)
 
-EU: Fermio Labs (https://fermio.xyz), Lecktor (https://lecktor.com), Replimat Labs (https://www.replimat.eu/), Meltbro (https://meltbro.de/)
+EU: Fermio Labs (https://fermio.xyz), Lecktor (https://lecktor.com), Replimat Labs (https://www.replimat.eu/), Meltbro (https://meltbro.de/), 3DO.eu (https://3do.eu/)
 
 UK: OneTwo3d (https://www.onetwo3d.co.uk), Printy Please (www.PrintyPlease.uk)
 
