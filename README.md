@@ -336,7 +336,7 @@ Distributed under GNU General Public License version 3.0 (GPLv3)
 
 ## Contact
 
-- Discord: 0ndsk4#5933 - (<https://discord.com/user/0ndsk4#5933>)
+- Discord: 0ndsk4 - (<https://discord.com/user/0ndsk4>)
 - Nevermore: [https://github.com/nevermore3d](https://github.com/nevermore3d)
 
 ## Acknowledgements
