@@ -70,8 +70,8 @@ Before installation, there are a few support pieces that need to be removed:
 
 ### Plenum Wiring and Lid Install
 
-![Plenum_Install](Plenum_1.gif)
-![Plenum_Install](Plenum_2.gif)
+![Plenum_Install](plenum_1.GIF)
+![Plenum_Install](plenum_2.GIF)
 
 #### Back Extrusion Mounting
 
