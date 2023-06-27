@@ -68,6 +68,11 @@ Before installation, there are a few support pieces that need to be removed:
 - 4x 6mm wide and 3mm deep magnets (also 4x magnets on the cartridge side, totaling 8 magnets).
 **Note:** Take care when installing the magnets. A common issue is getting polarity wrong.
 
+### Plenum Wiring and Lid Install
+
+![Plenum_Install](Plenum_1.gif)
+![Plenum_Install](Plenum_2.gif)
+
 #### Back Extrusion Mounting
 
 For the V0 1515 version or Trident 2020 version:
