@@ -220,9 +220,6 @@ ISR: Rav Meimad (https://www.ravmeimad.shop/)
 
 AU: Unique Prints (https://uniqueprints.shop), PhaserFPV (https://www.phaserfpv.com.au), DREMC (https://store.dremc.com.au/)
 
-
-...Or as direct sale from 0ndsk4#5933 (mainly for EU users, contact through discord) for those who wish to support the Nevermore project directly.
-
 ## BOM (V5)
 
 - 2x 5015 blowers (rating above 200Pa / 20mmH2O / 1 inH2O)
