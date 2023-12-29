@@ -57,7 +57,7 @@ Before installation, there are a few support pieces that need to be removed:
 **Wiring Options:**
 1. **Single JST-XH 2-pin**: Solder both fan wires to a single JST-XH 2-pin connector and connect it to the plenum port.
 2. **Triple JST-XH 2-pin**: Print the [2xJST_Holder.stl] insert to create a triple JST-XH 2-pin port. Connect the fans without cutting fan wires by daisy-chaining the 2 extra JST connectors to the plenum JST port. Note that for thicker and longer fan wires (like Gdstime), the wiring space may need to be completely filled with wire.
-3. **Dual WAGO 221 2-pin connectors**: Cut the fan wires, twist the fan wires together (12V bundle + GND bundle), and use WAGO connectors as wire extensions. Print the [Wire_connector.stl] that fits the plenum JST port. Insert the power wire from your printer and connect it to the corresponding WAGO socket. Lastly, insert the WAGO connectors into their slots.
+3. **Dual WAGO 221 2-pin connectors**: Cut the fan wires, twist the fan wires together (12V bundle + GND bundle), and use WAGO connectors (One WAGO for 12v bundle, and another WAGO for GND bundle) as wire extensions. Print the [Wire_connector.stl] that fits the plenum JST port. Insert the power wire from your printer and connect it to the corresponding WAGO socket. Lastly, insert the WAGO connectors into their slots.
 
 **TRIPLE-JST and WAGO**
 ![Cartridge Supports](JST_MOUNT.png)
