@@ -118,7 +118,7 @@ The V5 Duo also adds a 2nd additional 5015.
 
 _(Nevermore V5 Duo. used with permission from Tightwad(JT)#6055)_
 
-This repository hosts both versions, as they the same in design and function.
+This repository hosts both versions, as they are the same in design and function.
 
 # FAQs
 
