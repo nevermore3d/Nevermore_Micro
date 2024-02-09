@@ -177,9 +177,11 @@ See the BOM below for more details.
 
 You're ready to build a Nevermore Micro? Cool!
 
-> **_NOTE:_** MADE FOR ABS/PC/PETG - USE A DECENTLY HEAT RESISTANT FILAMENT !!
+> [!NOTE]  
+> MADE FOR ABS/PC/PETG - USE A DECENTLY HEAT RESISTANT FILAMENT !!
 
-> **_NOTE:_**: Since you are committing to fan dissection, be aware a 5015 used for a NM Micro will most likely never find a different purpose!
+> [!NOTE]  
+>  Since you are committing to fan dissection, be aware a 5015 used for a NM Micro will most likely never find a different purpose!
 
 ## SOURCING THE PROPER ACID-FREE CARBON
 
