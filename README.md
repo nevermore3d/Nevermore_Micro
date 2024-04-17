@@ -203,16 +203,81 @@ _(oxidation on filament tension spring after using acid residue carbon. used wit
 
 _(oxidation on bolts and washers after using acid residue carbon. used with permission from Zeptron#8880)_
 
-Optimal carbon for 3D printer VOC adsorption is sourced from **virgin coconut**, not wood/bitumen/charcoal/bamboo/lignin/etc. The porosity for each and every source will vary greatly.
+**Picking the Right Carbon for Your 3D Printer**
 
-For example, for aquarium or moonshine use you want large macroporosity to filter larger impurities, like oils. For that reason, water/liquid-use carbon has a large macropore area, defined as >100nm. 3D Printer VOCs are generally less than 0.5 nm, meaning that **for optimal capture rate and efficiency we want carbon with a high microporosity ratio, defined as <1nm**. A higher iodine count >1000 usually indicates at least some micro/mesoporosity, and a higher hardness (>95%) will create less dust in air filtration. CTC number doesn't translate well to our VOCs; however, toluene adsorption - which sometimes is available - is a good metric.
+Choosing the optimal activated carbon for a specific task requires careful
+consideration of several key factors, including surface area, CTC/benzene
+efficiency, porosity, and pH. These properties play a crucial role in determining the
+effectiveness and efficiency of the activated carbon in adsorbing target
+contaminants!
 
-**Avoid acid washed carbon at all costs**. Residues have oxidized printers! Go for steam activated, non acid-washed. A blend of neutral carbon and alkaline KOH carbon might be the best blend in the future, but impossible to currently source from trustworthy manufacturers.
+**Surface area** is perhaps the most critical factor, as it directly influences the
+adsorption capacity of the activated carbon. A higher surface area allows for more
+adsorption sites, enabling the activated carbon to capture and retain a greater
+amount of contaminants. Activated carbons typically range from 500 to 1250 m²/g,
+and a carbon of 1200 m²/g would have twice the capture capacity compared to a
+600 m²/g carbon. A good carbon usually has at least 1000 m²/g.
+Be sure you're not getting scammed by buying 25% cheaper carbon that lasts half
+as long!
 
-Finding carbon that fills all criteria is hard. Look around, ask suppliers about the carbon, hear what others recommend. 
+**CTC** (Carbon Tetrachloride) **efficiency** - or even better for 3D printing applications,
+aromatic hydrocarbon efficiency - is another important consideration, as it
+measures the activated carbon's ability to adsorb volatile organic compounds
+created from 3D printing. A higher CTC efficiency indicates a greater proportion of
+micro-pores, which are essential for capturing - and holding on to - small
+contaminants like airstream VOCs. Choosing an activated carbon with a CTC
+efficiency that matches the size of the target contaminants ensures optimal
+adsorption performance. A good carbon usually has at least 60% CTC.
+Be sure you're not getting scammed by buying 25% cheaper carbon that captures
+half as much!
+
+**Porosity** , which refers to the distribution of pore sizes within the activated carbon,
+also plays a significant role. Activated carbons, depending on quality and carbon
+source, will have different ratios of micro-pores (<2 nm), meso-pores (2-50 nm),
+and macro-pores (>50 nm). For general use, an even mix might be preferred, as
+they can effectively capture a broad spectrum of contaminants while allowing for
+efficient mass transfer and regeneration. However, for 3D printing use, a high
+micro- and mesoporosity is ideal to both capture VOCs (<2 nm) and VOC-
+agglomerates (ultra-fine particles, <50 nm), whereas macropores will struggle to
+hold on to VOCs in a hot application like a 3D printer's heated chamber. Good
+carbon types for our application are usually sourced from coconut or anthracite, as
+they are highly microporous, whereas other common carbons, such as bamboo or
+bituminous, usually have a larger percentage of macropores.
+Be sure you're not getting scammed by buying 25% cheaper carbon that releases
+half the VOCs again!
+
+**The pH of your activated carbon** should be considered, especially when dealing
+with pH-sensitive applications or contaminants. Activated carbons with a neutral or
+
+
+slightly alkaline pH are suitable for most applications, while acidic or basic activated
+carbons may be required for specific tasks. In order to capture any VOC type
+generated from any filament, a neutral carbon (capable of binding to both neutral,
+acidic, and alkaline VOCs) is preferred. Some users have also experienced severe
+printer corrosion from using acid-contaminated/treated carbon that, for some
+reason, got released with the heating cycles.
+Be sure to buy a 3D printer-safe carbon that is steam-activated and not acid-
+treated/coated!
+
+**Compare carbons in a jiffy**
+
+As a general comparison number for neutral carbons, try multiplying surface area
+and CTC efficiency (available space * capturing efficiency):
+
+**Carbon A** : 1250 m²/g * 80% CTC would be 1250 * 0.8 = 1000 ( _yes, this is
+Nevermore specs_ )
+
+**Carbon B** : 1000 m²/g * 50% CTC would be 1000 * 0.5 = 500
+
+This means that Carbon A can be expected to be 2x the performance, capturing
+more VOCs for longer.
+
+Be sure to buy Carbon A unless it's twice the price (or if you wish to refill your
+cartridges twice as often - it gets tedious quickly!).
+
 
 ## NEVERMORE 3D PRINTER CARBON
-**Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers.** Its the best activated carbon for 3D printer use we have found after speaking to most major, vetted suppliers, offering benzene adsorbtion of up to 48 wt%, surface area of 1250 and CTC value of 80. It doesn't come cheap compared to bulk carbon from amazon, but its safe, has unbeatable performance, and every purchase supports the nevermore project by at least a dollar.  
+**Nevermore offers its own premium carbon of unmatched specifications through selected voron resellers.** Its the best activated carbon for 3D printer use we have found after speaking to most major, vetted suppliers, offering benzene adsorbtion of up to 48 wt%, **surface area of 1250** and **CTC value of 80**. It doesn't come cheap compared to bulk carbon from amazon, but its safe, has unbeatable performance, and every purchase supports the nevermore project by at least a dollar.  
 
 [All Nevermore resellers here](https://github.com/nevermore3d/Reseller)
 
