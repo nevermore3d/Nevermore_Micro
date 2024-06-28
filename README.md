@@ -248,8 +248,6 @@ half the VOCs again!
 
 **The pH of your activated carbon** should be considered, especially when dealing
 with pH-sensitive applications or contaminants. Activated carbons with a neutral or
-
-
 slightly alkaline pH are suitable for most applications, while acidic or basic activated
 carbons may be required for specific tasks. In order to capture any VOC type
 generated from any filament, a neutral carbon (capable of binding to both neutral,
