@@ -69,6 +69,10 @@ Before installation, there are a few support pieces that need to be removed:
 
 ### Plenum
 
+#### Printing
+
+The plenum STL file includes two small pieces, which you will install into the plenum after printing.
+
 #### Electronics
 
 **Required:**
