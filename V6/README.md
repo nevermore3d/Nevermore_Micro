@@ -30,6 +30,26 @@ Nevermore Micro V6 is here! It is designed to supersede both the V4 and V5 duos,
 
 ## BOM and Installation
 
+### BOM
+- 2x 5015 blowers (compatible with Delta, Honeybadger, Gdstime, and Winsin. Sunons might fit but the intake holes may not line up perfectly). It is recommended to use blowers with good static pressure (>150Pa).
+- Wiring Options
+  - Single JST-XH 2-pin
+    - 1x JST-XH 2-pin
+  - Triple JST-XH 2-pin
+    - 3x JST-XH 2-pin
+  - Dual WAGO 221 2-pin connectors
+    - 2x WAGO 221 2-pin connectors
+- 8x 6mm wide and 3mm deep magnets
+- Mounting Options
+  - Back Extrusion Mounting
+    - 2x M3x4x5 heat inserts
+    - 1x extrusion T-nut
+    - 2x M3x6mm SHCS
+  - Bed Extrusion Mounting
+    - 1x M3x4x5 heat inserts
+    - 2x Extrusion T-nut
+    - 1x m3x16 SHCS
+    - 1x m3x20 SHCS
 ### Support Removal
 
 Before installation, there are a few support pieces that need to be removed:
@@ -60,6 +80,7 @@ Before installation, there are a few support pieces that need to be removed:
 3. **Dual WAGO 221 2-pin connectors**: Cut the fan wires, twist the fan wires together (12V bundle + GND bundle), and use WAGO connectors (One WAGO for 12v bundle, and another WAGO for GND bundle) as wire extensions. Print the [Wire_connector.stl] that fits the plenum JST port. Insert the power wire from your printer and connect it to the corresponding WAGO socket. Lastly, insert the WAGO connectors into their slots.
 
 **TRIPLE-JST and WAGO**
+
 ![Cartridge Supports](JST_MOUNT.png)
 
 ![Cartridge Supports](WAGO_MOUNT.png)
@@ -89,7 +110,7 @@ For the V2 2020 version (or sometimes the Trident 2020 bracket):
 - Insert 1x M3x4x5 heat inserts, to secure the lid fully after snap fitting it (or both inserts as per above if you plan on using one back, and one side mount)
 - 2x extrusion T-nuts.
 - 1x m3x16 SHCS (left side mount when viewed from top/exhaust)
-- 1x m3x20 SHCS (right side mount mwhen viewed from top/exhaust)
+- 1x m3x20 SHCS (right side mount when viewed from top/exhaust)
 - Bolt the V6 to an extrusion t-nut on both side of the filter when mounting under the bed on a v2. 
 **Note:** Bed doesnt have to be removed; connect the wires and bolt the plenum at the front of the bed, then loosen the bolts by half a turn allowing you to slide it in to position. Once in the right position, tighten it gently with a ball type driver.
 
